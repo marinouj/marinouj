@@ -16,3 +16,6 @@ JavaScript/TypeScript (Node.js, React, Next.js, three.js) · Python · AWS · Te
 
 ### Education
 Electrical & Computer Engineering, Technical University of Crete
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/ioanna-marinou-22170117a/)
